@@ -11,6 +11,7 @@ package studentlist;
 class Student {
 
    private String name;
+   // hi
 
     /**
      * @return the name
