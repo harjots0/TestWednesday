@@ -8,6 +8,7 @@ package studentlist;
  *
  * @author acer
  */
+// checking merge
 class Student {
 
    private String name;
